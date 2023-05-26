@@ -1,6 +1,6 @@
 # Stable Diffusion Web UI for Deforum
 
-- Open `fast-DreamBooth.ipynb` in Google Colab
+- Open `Stable Diffusion Video Web UI.ipynb` in Google Colab
 - Paste in your ngrok token in the Start Stable Diffusion section
 - Go to Extensions --> Install from URL --> Paste in [this URL](https://github.com/deforum-art/sd-webui-deforum)
 - Click Install
